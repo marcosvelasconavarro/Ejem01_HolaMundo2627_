@@ -21,7 +21,4 @@ Hemos colaborado en el proyecto:
   | .... | ... | ... |
   | 1.0 | Creacion del readme | Marcos velasco |
 
-  | Versión | Modificación |
-| ----------- | ----------- |
-| 1.0  | Creacion del readme  |
-
+X^2^
