@@ -2,7 +2,7 @@
 ## Primer proyecto realizado en Github
 Estamos en el **Centro Gregorio Fernández**. *Este es un primer proyecto en Github*
 
-> Centro de formacion Gregorio Fernandez. Valladolid 
+> Centro de formación Gregorio Fernández. Valladolid 
 El conjunto de tareas que tenemos que realizar es:
 1. Crear el proyecto
 2. Inicializarlo
@@ -13,4 +13,11 @@ Hemos colaborado en el proyecto:
 - Ana
 - Juan
 
-  Esta modificacion nos sirve para aprender markdown que por ejemplo los titulos 	`<h1> </h1>`los coloca con una almohadilla.
+  Esta modificación nos sirve para aprender markdown que por ejemplo los títulos 	`<h1> </h1>`los coloca con una almohadilla.
+
+  	[Gregorio Fernandez](https://www.gregoriofer.com)
+
+  | Versión | Modificación | Propietario de la modificación |
+  | .... | ... | ... |
+  | 1.0 | Creacion del readme | Marcos velasco | 
+  
