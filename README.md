@@ -19,5 +19,9 @@ Hemos colaborado en el proyecto:
 
   | Versión | Modificación | Propietario de la modificación |
   | .... | ... | ... |
-  | 1.0 | Creacion del readme | Marcos velasco | 
-  
+  | 1.0 | Creacion del readme | Marcos velasco |
+
+  | Versión | Modificación |
+| ----------- | ----------- |
+| 1.0  | Creacion del readme  |
+
